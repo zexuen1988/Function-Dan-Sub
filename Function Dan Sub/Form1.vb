@@ -14,7 +14,7 @@
     End Sub
 
     Private Function fun1()
-        lblLabel3.Text = "Hello"
+        lblLabel3.Text = "Helo"
         Return lblLabel3
     End Function
 
